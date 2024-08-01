@@ -302,6 +302,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
+        'Prompt',
         'ui-sans-serif',
         'system-ui',
         'sans-serif',
